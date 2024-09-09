@@ -10,6 +10,12 @@ $(call inherit-product, device/xiaomi/dagda/device.mk)
 # Inherit from common lineage configuration
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
+# related flags
+
+
+
+# related flags
+
 PRODUCT_NAME := lineage_dagda
 PRODUCT_DEVICE := dagda
 PRODUCT_MANUFACTURER := Xiaomi
